@@ -1,0 +1,6 @@
+  <div className='block justify-center items-center mx-auto mx-5 my-5 pt-5 pb-5 h-20 tracking-widest leading-10  bg-green-50'>
+            <h3 className='flex justify-center text-5xl CAPITALIZE Tracking-wide leading-10 mb-10'>
+                <strong className='text-green-500  flex space-x-4'> I!AM </strong>   Abdullahi </h3>
+            <h4 className='flex justify-center text text-5xl mt-10'> FULLSTACK DEVELOPER</h4>
+         
+    
