@@ -5,12 +5,13 @@ import About from "./pages/About";
 import Service from "./pages/Service";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
+import Footer from "./Component/Footer";
 function App() {
   return (
     //figma
     <>
     <div className="">
-  <h1 ></h1>
+
    <BrowserRouter>
    <Navbar/>
    <Routes>
@@ -22,8 +23,9 @@ function App() {
 
 
    </Routes>
-  
+    <Footer/>
    </BrowserRouter>
+   
  
    
 
